@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **irawat@unc.edu**
 
-- ⚡ Fun fact **I am from Russia with Indian roots**
+- ⚡ Fun fact **I know three languages: Russian, Hindi, and English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
