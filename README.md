@@ -43,6 +43,6 @@
 - **MATH233**: Multivariable Calculus
 - **STOR120**: Foundations of Statistics and Data Science
 - **COMP116**: Scientific Programming
-- **COMP290**: Special topics in Computer Science
+- **COMP290**: Special Topics in Computer Science
 
 ---
