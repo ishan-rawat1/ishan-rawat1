@@ -38,9 +38,9 @@
 - **COMP301**: Foundations of Programming
 - **COMP211**: Systems Fundamentals
 - **COMP283**: Discrete Structures
-- **MATH231**: Calculus 1
-- **MATH232**: Calculus 2
 - **MATH233**: Multivariable Calculus
+- **MATH232**: Calculus 2
+- **MATH231**: Calculus 1
 - **STOR120**: Foundations of Statistics and Data Science
 - **COMP116**: Scientific Programming
 - **COMP290**: Special Topics in Computer Science
