@@ -37,6 +37,7 @@
 - **COMP550**: Algorithms and Analysis
 - **COMP421**: Files and Databases
 - **MATH 347**: Linear Algebra
+- **COMP455**: Models of Languages and Computation
 - **COMP210**: Analysis of Data Structures
 - **COMP301**: Java OOP
 - **STOR 535**: Probability for Data Science
