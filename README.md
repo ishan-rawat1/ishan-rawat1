@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Rawat</h1> <p align="center">
     <a href="https://www.linkedin.com/in/ishanrawat/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"></a>
 </p>
-<h3 align="center">Sophomore at UNC-Chapel Hill / Major: B.S. Computer Science & Statistics and Analytics</h3>
+<h3 align="center">Junior at UNC-Chapel Hill / Major: B.S. Computer Science & Statistics and Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
